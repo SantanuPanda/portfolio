@@ -1,0 +1,36 @@
+Welcome to my portfolio! This repository contains the source code for my personal portfolio website, built using HTML, CSS, and JavaScript.
+
+Features
+Responsive Design: Compatible with various screen sizes and devices.
+Interactive Elements: Smooth animations and interactive components for a dynamic user experience.
+Projects Showcase: Detailed descriptions and links to my projects.
+Contact Form: Allows visitors to get in touch with me easily.
+Technologies Used
+HTML5: Structure and content of the website.
+CSS3: Styling and layout.
+JavaScript: Interactivity and functionality.
+GitHub Pages: Hosting the portfolio online.
+
+Getting Started
+To view and edit the portfolio locally, follow these steps:
+
+Clone the repository:
+sh
+Copy code
+git clone https://github.com/SantanuPanda/your-portfolio-repo.git
+
+Navigate to the project directory:
+sh
+Copy code
+cd your-portfolio-repo
+Open index.html in your browser to view the portfolio.
+
+Usage
+Feel free to use this portfolio as a template for your own. Customize it to reflect your own skills, projects, and experiences.
+
+Contact
+If you have any questions or would like to get in touch, feel free to contact me:
+
+Gmail: theultimate75399@gmail.com
+LinkedIn: https://in.linkedin.com/in/santanupanda123
+GitHub: https://github.com/SantanuPanda
